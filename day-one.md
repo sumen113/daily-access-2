@@ -46,3 +46,4 @@ How im gonna start, just like my step planner I will gather up the websites, it'
 
 Finally, now I think Im gonna whip up figma really quick and start designing( i love free figma with school accounts)
 
+I got my plan ready so I think I will start to begin my draft 1 :D

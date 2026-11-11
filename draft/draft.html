@@ -1,0 +1,87 @@
+<!-- i like html kinda? anything for that AULA F75 i guess   -->
+
+<!DOCTYPE html>
+<html lang=""en"><head><meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#0e1726">
+
+    <title>Daily Access+</title>title>
+    <link rel="icon" type="image/png" href="https://i.ibb.co/FbsvGQ7L/lgo.png">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="./css/style.css">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js" defer></script>
+    <script src="js/script.js" defer></script>
+</head>
+<body><div class="background" aria-hidden="true"></div>
+
+    <main><section class="screen hero" id="hero" aria-hidden="true"><div class="logo"><img src="https://i.ibb.co/FbsvGQ7L/lgo.png" alt="Daily Access logo">
+                <div class="logo-tip" id="tip">amazing logo made by my friend</div>
+            </div>
+
+            <div class="hero-copy">
+                <span class="eyebrow">made for my crecent project but doesn't make it any less useful in school</span>
+                <h1>daily access+</h1>
+                <p class="subtitle">hand crafted by the students at GIHS</p>
+            </div>
+
+            <button class="hold-button" id="hold" type="button"><span class="hold-fill" aria-hidden="true"></span>
+                <span class="hold-label">hold</span>
+                <span class="hold-label hold-label-filled" aria-hidden="true">hold</span>
+            </button>
+        </section>
+
+        <section class="screen" id="pick" aria-hidden="true"><div class="page-wrap"><header class="section-heading"><h2>choose your destinations</h2>
+                    <p>choose your sites with no useless junk if you dont want it</p>
+                    <span class="selection-count" id="count" aria-live="polite"></span>
+                </header>
+
+                <div class="site-grid" id="grid"></div>
+            </div>
+
+            <footer class="bottom-bar"><button class="button button-primary" id="next" type="button" disabled>continue
+                </button>
+            </footer>
+        </section>
+
+        <section class="screen" id="dash" aria-hidden="true"><header class="top-bar"><div class="brand"><img src="https://i.ibb.co/FbsvGQ7L/lgo.png" alt="">
+                    <span>daily access+</span>
+                </div>
+                <button class="button button-ghost" id="open" type="button">settings</button>
+            </header>
+            <div class="page-wrap dashboard-content"><header class="section-heading"><h2>sites right here</h2>
+                    <p>way better website than GIHS daily access haha</p>
+                </header>
+
+                <div class="site-grid" id="cards"></div>
+
+                <div class="empty-state" id="none" hidden>
+                    <p>what are you doing, not very slick</p>
+                    <button class="button button-primary" id="again" type="button">open settings
+                    </button>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <button class="drawer-backdrop" id="veil" type="button" aria-label="Close settings"></button>
+
+    <aside class="settings-drawer" id="pane" role="dialog" aria-modal="true" aria-label="Settings" aria-hidden="true"><header class="drawer-heading">
+            <h2>settings</h2>
+            <button class="button button-ghost" id="shut" type="button">close</button>
+        </header>
+
+        <section class="settings-section"><h3>pick theme</h3>
+            <div class="theme-grid" id="themes"></div>
+        </section>
+
+        <section class="settings-section"><h3>your sites</h3>
+            <div id="rows"></div>
+        </section>
+    </aside>
+</body>
+</html>
