@@ -101,7 +101,8 @@ This project may seem really made just for my school, it could easily be applied
 ## credits
 
 -crescent(real motivator)\
--GIHS(making a really bad website for me to innovate on)\
+-GIHS(making a website that helped me innovate on)\
 -readmewidgets(made me realise my readme's looked terrible)\
 -vercel(where I hosted my small demo on)
 
+![Before-Vs-After](./images/beforevsafter.png)
