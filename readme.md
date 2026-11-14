@@ -9,6 +9,12 @@
   <a href="https://github.com/Sumen113/daily-access-2/releases">
     <img src="https://img.shields.io/github/v/release/Sumen113/daily-access-2?style=for-the-badge" alt="Latest Release">
   </a>
+  <a href="https://daily-access-2-draft.vercel.app/draft.html">
+  <img
+    src="https://img.shields.io/badge/try it out-2563eb?style=for-the-badge&labelColor=172b45"
+    alt="try it out"
+  >
+</a>
 </p>
 
 <table align="center">
@@ -65,6 +71,8 @@
 ## about
 
 I have been using the same website for getting my school websites and links for the past 3 terms. But the problem? Both the UI and UX are horrible, that's why I have decided to make my own and put it through both an extension and a userscript executor.
+
+But how does it work? My userscript simply just deletes the whole page and adds its own, think of it like this, you have an essay( with really bad hand writing ) and then erase the whole thing before writing a better essay.
 
 ## download or install
 
