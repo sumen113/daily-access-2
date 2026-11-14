@@ -8,7 +8,7 @@
   <a href="https://github.com/Sumen113/daily-access-2/releases">
     <img src="https://img.shields.io/github/v/release/Sumen113/daily-access-2?style=for-the-badge" alt="Latest Release">
   </a>
-  <a href="https://daily-access-2-draft.vercel.app/draft.html">
+  <a href="https://daily-access-2-draft.vercel.app">
   <img
     src="https://img.shields.io/badge/try it out-2563eb?style=for-the-badge&labelColor=172b45"
     alt="try it out"
