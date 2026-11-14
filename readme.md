@@ -87,6 +87,8 @@ This way is done through extensions, I have supported two browser types for this
 
 My enhancement simply replaces the [daily access](https://da.gihs.sa.edu.au) page at my school, making not much of change in functionality, but the few changes include 1: saving of login(only applies to the non-demo version), 2: Addition of choosing which website you want for the daily access and 3: customisation of themes. There is no true guide to use as it simply is really self explanitory(click website, go link).
 
+![demonstration](./media/demonstration.mp4)
+
 ## devlogs
 
 I have been devlogging my process through making this, although it isn't too in depth you can view them:
@@ -105,4 +107,4 @@ This project may seem really made just for my school, it could easily be applied
 -readmewidgets(made me realise my readme's looked terrible)\
 -vercel(where I hosted my small demo on)
 
-![Before-Vs-After](./images/beforevsafter.png)
+![Before-Vs-After](./media/beforevsafter.png)
