@@ -1029,7 +1029,7 @@
 
                 <div class="hero-copy">
                     <span class="eyebrow">made for my crecent project but doesn't make it any less useful in school</span>
-                    <h1>daily access+</h1>
+                    <h1>daily access 2</h1>
                     <p class="subtitle">hand crafted by the students at GIHS</p>
                 </div>
 
@@ -1053,7 +1053,7 @@
                 </section>
 
                 <section class="screen" id="dash" aria-hidden="true"><header class="top-bar"><div class="brand"><img src="https://i.ibb.co/FbsvGQ7L/lgo.png" alt="">
-                            <span>daily access+</span>
+                            <span>daily access 2</span>
                         </div>
                         <button class="button button-ghost" id="open" type="button">settings</button>
                     </header>
