@@ -1,5 +1,3 @@
-// i formatted this using beautifier.io
-
 // ==UserScript==
 // @name         Daily Access 2
 // @namespace    Daily Access 2

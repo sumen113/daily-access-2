@@ -7,14 +7,14 @@ const $ = (selector) => document.querySelector(selector);
 // why on earth does every language have different comment ways, like MAKE IT UNIVERSALL
 
 const sites = [
-    { id: "daymap", label: "Daymap", image: "https://i.ibb.co/zHRsqb0B/Daymap2.png", url: "" },
-    { id: "classroom", label: "Google Classroom", image: "https://i.ibb.co/sJKrkvsq/Google-Classroom.png", url: "" },
-    { id: "drive", label: "Google Drive", image: "https://i.ibb.co/1G6src0d/Google-Drive.png", url: "" },
-    { id: "sites", label: "Google Sites", image: "https://i.ibb.co/27MYDJPb/Google-Sites.png", url: "" },
-    { id: "learner", label: "Learner Profile", image: "https://i.ibb.co/jsqwrCm/Learner-Profile.png", url: "" },
-    { id: "hub", label: "Learning Hub", image: "https://i.ibb.co/JwNkrrVM/Learning-Hub.png", url: "" },
-    { id: "outlook", label: "Outlook", image: "https://i.ibb.co/4gSWhbXm/Outlook.png", url: "" },
-    { id: "studentinfo", label: "Student Info", image: "https://i.ibb.co/M5SFZKNW/Student-Info.png", url: "" }
+    { id: "daymap", label: "Daymap", image: "https://i.ibb.co/zHRsqb0B/Daymap2.png", url: "https://gihs.daymap.net/daymap/student/dayplan.aspx" },
+    { id: "classroom", label: "Google Classroom", image: "https://i.ibb.co/sJKrkvsq/Google-Classroom.png", url: "https://classroom.google.com/a/gihs.sa.edu.au" },
+    { id: "drive", label: "Google Drive", image: "https://i.ibb.co/1G6src0d/Google-Drive.png", url: "https://drive.google.com/a/gihs.sa.edu.au" },
+    { id: "sites", label: "Google Sites", image: "https://i.ibb.co/27MYDJPb/Google-Sites.png", url: "https://sites.google.com" },
+    { id: "learner", label: "Learner Profile", image: "https://i.ibb.co/jsqwrCm/Learner-Profile.png", url: "https://app.powerbi.com/groups/me/apps/0d9babca-7f9e-45cb-bd2c-19641bb8ec05" },
+    { id: "hub", label: "Learning Hub", image: "https://i.ibb.co/JwNkrrVM/Learning-Hub.png", url: "https://da.gihs.sa.edu.au/library.html" },
+    { id: "outlook", label: "Outlook", image: "https://i.ibb.co/4gSWhbXm/Outlook.png", url: "https://outlook.cloud.microsoft/mail/?realm=schools.sa.edu.au#path=/mail" },
+    { id: "studentinfo", label: "Student Info", image: "https://i.ibb.co/M5SFZKNW/Student-Info.png", url: "http://learnercouncil.gihs.sa.edu.au/" }
 ];
 
 const themes = {

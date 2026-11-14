@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Daily Access 2",
+  "version": "1.1.0",
+  "description": "The better daily access",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://saml.gihs.sa.edu.au/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_start",
+      "all_frames": false
+    }
+  ]
+}
