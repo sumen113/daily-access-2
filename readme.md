@@ -87,7 +87,7 @@ This way is done through extensions, I have supported two browser types for this
 
 My enhancement simply replaces the [daily access](https://da.gihs.sa.edu.au) page at my school, making not much of change in functionality, but the few changes include 1: saving of login(only applies to the non-demo version), 2: Addition of choosing which website you want for the daily access and 3: customisation of themes. There is no true guide to use as it simply is really self explanitory(click website, go link).
 
-![demonstration](./media/demonstration.mp4)
+https://github.com/user-attachments/assets/b8f6003f-677a-4a64-897f-20d2b521ebd7
 
 ## devlogs
 
